@@ -1,0 +1,2 @@
+com/midsizemango/elasticsearch/ElasticsearchApplicationTests.java
+ com.midsizemango.elasticsearch.ElasticsearchApplicationTests
